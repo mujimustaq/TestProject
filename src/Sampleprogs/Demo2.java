@@ -38,6 +38,8 @@ public class Demo2 {
 		Thread.sleep(3000);
 		//driver.close();
 		System.out.println("GIT hub testing");
+	  System.out.println("GIT hub testing- update");
+	  
 	}
 //@Test(priority = 2)
   
