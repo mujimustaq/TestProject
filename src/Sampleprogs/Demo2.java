@@ -37,6 +37,7 @@ public class Demo2 {
 		driver.findElement(By.xpath(ElementsRep.submit)).click();
 		Thread.sleep(3000);
 		//driver.close();
+		System.out.println("GIT hub testing");
 	}
 //@Test(priority = 2)
   
