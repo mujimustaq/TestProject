@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-03-17T06:24:28Z" name="Default suite" finished-at="2018-03-17T06:24:46Z" duration-ms="17967">
+    <groups>
+    </groups>
+    <test started-at="2018-03-17T06:24:28Z" name="Default test" finished-at="2018-03-17T06:24:46Z" duration-ms="17967">
+      <class name="Sampleprogs.Demo2">
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:Sampleprogs.Demo2@4470f8a6]" started-at="2018-03-17T06:24:28Z" name="openbrowser" finished-at="2018-03-17T06:24:39Z" duration-ms="11055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="flipkartlogin()[pri:1, instance:Sampleprogs.Demo2@4470f8a6]" started-at="2018-03-17T06:24:39Z" name="flipkartlogin" finished-at="2018-03-17T06:24:46Z" duration-ms="6883" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flipkartlogin -->
+      </class> <!-- Sampleprogs.Demo2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
