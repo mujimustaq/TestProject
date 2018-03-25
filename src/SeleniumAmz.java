@@ -16,7 +16,8 @@ public class SeleniumAmz {
 			//driver.findElement()
 			driver.findElement(By.xpath("//*[@id=\"header\"]/div[2]/div/div/nav/div[1]/a")).click();
 			driver.findElement(By.name("email_create")).sendKeys("mujimustaq@gmail.com");
-			driver.findElement(By.id("SubmitCreate")).click();		
+			driver.findElement(By.id("SubmitCreate")).click();	
+		System.out.println("Jenkins sample");
 			
 }
 }
